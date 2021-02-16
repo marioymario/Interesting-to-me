@@ -24,3 +24,7 @@ the Officer_Id make use of the force between January 28, 2017 and updated on Feb
 
 feauture engeenering to extract addresses from locations and then addresses into
 Latitud and longitud. (so we can number of incidents per Precint)
+
+
+## the data contains a map but for some reason did not upload at Git.
+## ask me if you wanted to check it
