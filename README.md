@@ -21,8 +21,8 @@ It was created on January 28, 2017 and updated on February 16, 2021.
 We also will be using information from the U.S Census Bureau.
 
 Feature engineering to extract addresses from locations and then turning addresses into
-latitude and longitude to better understand the number of incidents per precinct. Unfortunately, this does not run at Git.
+latitude and longitude to better understand the number of incidents per precinct. Unfortunately, it did not work for me.
 
 
 ## The data contains a map but for some reason did not upload at Git.
-## Please contact me should you want to see the aforementioned data map.
+## Please contact me if you want to see the map.
